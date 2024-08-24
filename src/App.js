@@ -5,4 +5,8 @@ function App() {
   return <div>Hello {value}</div>;
 }
 
+function HeadLine() {
+  return <h1>  Welcome to the website </h1>
+}
+
 export default App;
