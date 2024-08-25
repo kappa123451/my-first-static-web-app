@@ -5,7 +5,7 @@ function App() {
   return <div>Hello {value}</div>;
 }
 
-function HeadLine() {
+export function HeadLine() {
   return <h1>  Welcome to the website </h1>
 }
 
