@@ -10,6 +10,6 @@ ReactDOM.render(
     <HeadLine />
     <App />
   </div>,
+  </RootLayout>,
   document.getElementById('root')
-  </RootLayout>
 );
